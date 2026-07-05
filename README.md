@@ -8,7 +8,7 @@ and total estimated build cost.
 ![Dashboard Preview](dashboard-preview.png)
 
 ## Features
-- Dropdown selection for 60+ AMD processors (AM4 & AM5) and 90+ GPUs (Nvidia & AMD)
+- Dropdown selection for 30+ AMD processors (AM4 & AM5) and 60+ GPUs (Nvidia & AMD)
 - Auto-populated CPU/GPU specs: price, TDP, socket, VRAM
 - Motherboard recommendation based on socket compatibility and CPU price tier
 - Dynamic RAM and SSD recommendations (16GB/1TB vs 32GB/2TB) based on total build cost
